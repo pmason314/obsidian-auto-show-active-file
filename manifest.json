@@ -1,0 +1,10 @@
+{
+	"id": "auto-show-active-file-in-explorer",
+	"name": "Auto-Show Active File",
+	"version": "0.1.0",
+	"minAppVersion": "1.7.7",
+	"description": "Automatically reveal the currently active file in the file explorer sidebar.",
+	"author": "Peter Mason",
+	"authorUrl": "https://github.com/pmason314",
+	"isDesktopOnly": false
+}
